@@ -1,3 +1,4 @@
+#日本語いけるんか？
 #!/usr/bin/env python3
 from __future__ import print_function
 from builtins import input
